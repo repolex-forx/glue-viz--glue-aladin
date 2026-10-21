@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-aladin",
+  "versions": [
+    {
+      "commit": "4c68a8ee46bab848072a3a95632e278821211ac7",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:41:57.338071+00:00"
+    }
+  ]
+}
